@@ -3,7 +3,6 @@
 A beautifully designed Weather App built with **Flutter** that fetches and displays live weather data using the [OpenWeatherMap API](https://openweathermap.org/). This app focuses on building a responsive UI, working with external APIs, and custom widget development in Flutter.
 
 ---
-![Uploading a8243615-4382-42f7-93cb-f53c356e7494.png…]()
 
 ## 🚀 Features
 
