@@ -1,33 +1,49 @@
 # 🌦️ Weather App - Flutter
 
-A beautifully designed Weather App built with **Flutter** that fetches and displays live weather data using the [OpenWeatherMap API](https://openweathermap.org/). This app focuses on building a responsive UI, working with external APIs, and custom widget development in Flutter.
+![Weather App Banner](weatherappbanner.jpg)
+
+A beautifully crafted Weather App built with **Flutter**, delivering real-time weather updates using the [OpenWeatherMap API](https://openweathermap.org/). The app demonstrates responsive UI design, external API integration, and custom widget architecture for seamless user experience.
 
 ---
 
 ## 🚀 Features
 
-- 🔁 Live weather data fetching (using `http`)
-- 🌡️ Display of current temperature, condition, humidity, wind speed, and pressure
-- 🕐 Hourly forecast preview
-- 🎨 Clean and responsive UI
-- 📦 Utilizes `intl` for time formatting and `math_expressions` for data handling
-- 🧱 Custom reusable widgets for better code structure
+- 🔁 Real-time weather data fetching using `http`
+- 🌡️ Current weather display:
+  - Temperature
+  - Weather condition
+  - Humidity
+  - Wind speed
+  - Atmospheric pressure
+- 🕐 Hourly weather forecast
+- 🎨 Sleek, clean, and fully responsive user interface
+- 🧱 Modular architecture with custom reusable widgets
+- 🌍 Multi-location support ready
+- 🕓 Time formatting using `intl`
+- 🧮 Lightweight calculations using `math_expressions`
+- 💾 State persistence using **Shared Preferences**
 
 ---
 
-## 🧰 Built With
+## 🧰 Tech Stack
 
-- Flutter
-- Dart
-- OpenWeatherMap API
-- HTTP Package
-- Intl Package
-- Custom Widgets
+- **Framework:** Flutter
+- **Language:** Dart
+- **API:** OpenWeatherMap
+- **Packages:**
+  - [`http`](https://pub.dev/packages/http)
+  - [`intl`](https://pub.dev/packages/intl)
+  - [`math_expressions`](https://pub.dev/packages/math_expressions)
+  - [`shared_preferences`](https://pub.dev/packages/shared_preferences)
 
 ---
 
 ## 🧑‍💻 Getting Started
 
-1. Clone the repo  
+To set up and run the project locally:
+
 ```bash
 git clone https://github.com/MH-MuhammadHassan/weather-app
+cd weather-app
+flutter pub get
+flutter run
