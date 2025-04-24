@@ -38,6 +38,21 @@ A beautifully crafted Weather App built with **Flutter**, delivering real-time w
 
 ---
 
+## 👨‍💻 Author
+
+**Muhammad Hassan**  
+[LinkedIn](https://www.linkedin.com/in/mh-muhammadhassan/)
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!  
+Feel free to open issues or submit pull requests to enhance the project.
+
+---
+
+
 ## 🧑‍💻 Getting Started
 
 To set up and run the project locally:
